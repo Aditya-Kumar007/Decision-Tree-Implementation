@@ -22,4 +22,7 @@ A crucial aspect of this implementation is the graphical representation of the t
 Model Evaluation and Feature Importance
 To assess the model’s predictive ability, performance metrics such as accuracy, a classification report, and a confusion matrix are utilized. These metrics provide insights into how well the classifier distinguishes between iris species. Furthermore, feature importance analysis is conducted through a horizontal bar chart, highlighting the most influential attributes in the model’s decision-making process.
 # Output
-Output.png
+
+![Image](https://github.com/user-attachments/assets/139cfa17-ea34-492e-a0de-0a90db596e1c)
+
+
